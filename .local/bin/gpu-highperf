@@ -1,0 +1,3 @@
+#!/bin/bash
+
+aticonfig --px-dgpu && sudo systemctl restart lightdm.service

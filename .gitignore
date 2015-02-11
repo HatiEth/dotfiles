@@ -1,4 +1,6 @@
 !.i3/config
 !.gitignore
+!.zshrc
+!.vimrc
 *
 

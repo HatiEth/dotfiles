@@ -1,0 +1,3 @@
+#!/bin/bash
+
+LD=ld.gold CC=clang CXX=clang++ cmake "$@"

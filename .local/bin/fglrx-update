@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo catalyst_build_module all
